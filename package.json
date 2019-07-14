@@ -1,0 +1,26 @@
+{
+  "name": "express-error-handling",
+  "version": "1.0.0",
+  "description": "An article on best practices in handling errors in Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oriechinedu/express-error-handling.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Express"
+  ],
+  "author": "Orie Chinedu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oriechinedu/express-error-handling/issues"
+  },
+  "homepage": "https://github.com/oriechinedu/express-error-handling#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
